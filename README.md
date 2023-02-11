@@ -62,5 +62,7 @@
 - [Favic-o-matic](https://favicomatic.com/) : favicons
 ---
 ### ADDITIONAL LEARNING :
+- [W3Schools](https://www.w3schools.com/) : a reference point for learning
+- [Stack Overflow](https://stackoverflow.com/) : a community  to pose code related questions & answers
 - [Code Wars](https://www.codewars.com/) : JS (& other lannguages) based games designed to help you improve.
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
