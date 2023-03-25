@@ -36,6 +36,11 @@ action="https://formdump.codeinstitute.net/"
 ```
 <meta http-equiv="refresh" content="10; url=index.html">
 ```
+- If you noticed your indentations are not correct, but you have too many files to go correct them manually, there is a shortcut you can use in gitpod:
+  - On Windows : `Shift`+`Alt`+`F`
+  - On MAC OS: `COMMAND⌘`+`K`+`F`
+  - On Ubuntu : `Ctrl`+`Shift`+`I`
+If it asks you to set up a configuration, just choose 'prettier'.
 ---
 ### TESTING / VALIDATORS :
 - [W3](https://validator.w3.org/) : HTML validator
@@ -74,3 +79,10 @@ action="https://formdump.codeinstitute.net/"
 - [Stack Overflow](https://stackoverflow.com/) : a community  to pose code related questions & answers
 - [Code Wars](https://www.codewars.com/) : JS (& other lannguages) based games designed to help you improve.
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
+
+## PROJECT SPECIIFIC :
+
+### PP4 - Django :
+- [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLS that have not been secured.
+- [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
+- [Common reasons for failign PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
