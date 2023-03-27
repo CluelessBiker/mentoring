@@ -86,3 +86,7 @@ If it asks you to set up a configuration, just choose 'prettier'.
 - [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLS that have not been secured.
 - [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
 - [Common reasons for failign PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
+
+### PP5 - Advanced Front End (React) :
+- [ESLint installation & setup](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b) - a package that can be installed in your React app to check your code. Requires configuration
+- [ESLint Playground](https://eslint.org/play/) : manually check your files through the online ESLint.
