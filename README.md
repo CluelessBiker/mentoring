@@ -38,8 +38,8 @@ action="https://formdump.codeinstitute.net/"
 ```
 - If you noticed your indentations are not correct, but you have too many files to go correct them manually, there is a shortcut you can use in gitpod:
   - On Windows : `Shift`+`Alt`+`F`
-  - On MAC OS: `COMMAND⌘`+`K`+`F`
-  - On Ubuntu : `Ctrl`+`Shift`+`I`
+  - On MAC OS: `Shift`+`Option`+`F`
+  - On Ubuntu : `Shift`+`Ctrl`+`I`
 If it asks you to set up a configuration, just choose 'prettier'.
 ---
 ### TESTING / VALIDATORS :
