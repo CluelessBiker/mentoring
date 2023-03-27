@@ -11,7 +11,7 @@
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
 
 ### PP4 - Django :
--[Anthemology](https://github.com/AlexaH88/anthemology)
+- [Anthemology](https://github.com/AlexaH88/anthemology)
 
 ### PP5 - ADVANCED FRONT END (React) :
 
