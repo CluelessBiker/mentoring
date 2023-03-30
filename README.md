@@ -28,19 +28,6 @@
 - [HTML semantic markup](https://html.com/semantic-markup/) : a guide on what HTML semantic markup is.
 - [File nameing](https://www.thesitewizard.com/webdesign/create-good-filenames.shtml) : how to create proper file names within your project.
 - [HTML input types - W3Schools](https://www.w3schools.com/html/html_form_input_types.asp) : assigning types to input fields.
-- C.I. Form-dump link: Add inside the opening `<form>` tag (to be used if adding a form to your first project & you do not wish to build your own page):
-```
-action="https://formdump.codeinstitute.net/"
-```
- - Should you decide to create your own form-dump page, a nice extra touch is to add this `<meta>` tag inside the head of that page, so that the page redirects back to the home page after a few seconds:
-```
-<meta http-equiv="refresh" content="10; url=index.html">
-```
-- If you noticed your indentations are not correct, but you have too many files to go correct them manually, there is a shortcut you can use in gitpod:
-  - On Windows : `Shift`+`Alt`+`F`
-  - On MAC OS: `Shift`+`Option`+`F`
-  - On Ubuntu : `Shift`+`Ctrl`+`I`
-If it asks you to set up a configuration, just choose 'prettier'.
 ---
 ### TESTING / VALIDATORS :
 - [W3](https://validator.w3.org/) : HTML validator
@@ -79,7 +66,7 @@ If it asks you to set up a configuration, just choose 'prettier'.
 - [Stack Overflow](https://stackoverflow.com/) : a community  to pose code related questions & answers
 - [Code Wars](https://www.codewars.com/) : JS (& other lannguages) based games designed to help you improve.
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
-
+---
 ## PROJECT SPECIIFIC :
 
 ### PP4 - Django :
