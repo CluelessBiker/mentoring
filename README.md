@@ -1,10 +1,11 @@
 # LEARNING LINKS:
 
-### CSS STYLING :
+### CSS & STYLING :
 - [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) : a complete guide &  visual aide on flexbox.
 - [W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp) : a guidee on CSS flexbox.
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/) : A game to teach you  how CSS Flexbox works.
 - [CSS Grid Garden](https://cssgridgarden.com/) : A game to teach you how CSS  Gris works.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : A google Chrome extension that will help you see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
 ---
 ### READMEs :
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) : How to add markdown & styling to your README.
