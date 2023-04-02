@@ -23,6 +23,7 @@
 - [Draw SQL](https://drawsql.app/) : ERD mockup (projects  4 & 5)
 ---
 ### PROJECT CREATION :
+- [C.I. repository template](https://github.com/Code-Institute-Org/gitpod-full-template): Repository template for PP1 & PP2
 - [Git commit messages](https://cbea.ms/git-commit/#separate) : How to write a commit message.
 - [Convenntional commits](https://www.conventionalcommits.org/en/v1.0.0/) : Writing coonventional commit messages.
 - [HTML formatting & indenting](https://granneman.com/webdev/coding/formatting-and-indenting-your-html) : how to properly format & inndent your HTML markup.
