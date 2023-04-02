@@ -2,7 +2,7 @@
 
 ### CSS & STYLING :
 - [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) : a complete guide &  visual aide on flexbox.
-- [W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp) : a guidee on CSS flexbox.
+- [W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp) : a guide on CSS flexbox.
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/) : A game to teach you  how CSS Flexbox works.
 - [CSS Grid Garden](https://cssgridgarden.com/) : A game to teach you how CSS  Gris works.
 - [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : A google Chrome extension that will help you see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
@@ -10,11 +10,11 @@
 ### READMEs :
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) : How to add markdown & styling to your README.
 - [README template - C.I.](https://github.com/Code-Institute-Solutions/readme-template) : A template for how to compose your projct README.
-- [Project mock-up (techsini)](https://techsini.com/multi-mockup/) : Display your deploed link across different device screens.
+- [Project mock-up (techsini)](https://techsini.com/multi-mockup/) : Display your deployed link across different device screens.
 - [AM I Responsive](http://ami.responsivedesign.is/) : Another mockup generator
 ---
 ### SEMINARS :
-- [C.I. Seminars](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) : Informational videos presented by fellow studennts & alumnni.
+- [C.I. Seminars](https://www.youtube.com/playlist?list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt) : Informational videos presented by fellow students & alumni.
 ---
 ### WIREFRAMES / MOCKUPS :
 - [Balsamiq](https://balsamiq.com/) : wireframes.
@@ -25,10 +25,10 @@
 ### PROJECT CREATION :
 - [C.I. repository template](https://github.com/Code-Institute-Org/gitpod-full-template): Repository template for PP1 & PP2
 - [Git commit messages](https://cbea.ms/git-commit/#separate) : How to write a commit message.
-- [Convenntional commits](https://www.conventionalcommits.org/en/v1.0.0/) : Writing coonventional commit messages.
-- [HTML formatting & indenting](https://granneman.com/webdev/coding/formatting-and-indenting-your-html) : how to properly format & inndent your HTML markup.
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) : Writing conventional commit messages.
+- [HTML formatting & indenting](https://granneman.com/webdev/coding/formatting-and-indenting-your-html) : how to properly format & indent your HTML markup.
 - [HTML semantic markup](https://html.com/semantic-markup/) : a guide on what HTML semantic markup is.
-- [File nameing](https://www.thesitewizard.com/webdesign/create-good-filenames.shtml) : how to create proper file names within your project.
+- [File naming](https://www.thesitewizard.com/webdesign/create-good-filenames.shtml) : how to create proper file names within your project.
 - [HTML input types - W3Schools](https://www.w3schools.com/html/html_form_input_types.asp) : assigning types to input fields.
 ---
 ### TESTING / VALIDATORS :
@@ -37,7 +37,7 @@
 - [JS Hint](https://jshint.com/) : JavaScript validator
 - [Diff checker](https://www.diffchecker.com/#) : compare differences between file versions.
 - [PEP8](http://pep8online.com/) : Python validator
-- [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessability to contract in your site
+- [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessibility to contract in your site
 ---
 ### CONTENT :
 - [Tiny PNG](https://tinypng.com/) : Image compression.
@@ -52,7 +52,7 @@
 - [Pexels](https://www.pexels.com/)
 #### COLOUR
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
-- [Conntrast checker](https://webaim.org/resources/contrastchecker/)
+- [Contrast checker](https://webaim.org/resources/contrastchecker/)
 - [Colormind](http://colormind.io/)
 - [Color Space](https://mycolor.space/)
 - [Eye dropper](https://eyedropper.org/) : a google chrome extension that allows you to find the HEX value of a colour on a website
@@ -66,7 +66,7 @@
 ### ADDITIONAL LEARNING :
 - [W3Schools](https://www.w3schools.com/) : a reference point for learning
 - [Stack Overflow](https://stackoverflow.com/) : a community  to pose code related questions & answers
-- [Code Wars](https://www.codewars.com/) : JS (& other lannguages) based games designed to help you improve.
+- [Code Wars](https://www.codewars.com/) : JS (& other languages) based games designed to help you improve.
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
 ---
 ## PROJECT SPECIIFIC :
