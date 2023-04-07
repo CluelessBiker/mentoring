@@ -5,7 +5,6 @@
 - [W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp) : a guide on CSS flexbox.
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/) : A game to teach you  how CSS Flexbox works.
 - [CSS Grid Garden](https://cssgridgarden.com/) : A game to teach you how CSS  Gris works.
-- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : A google Chrome extension that will help you see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
 ---
 ### READMEs :
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) : How to add markdown & styling to your README.
@@ -19,8 +18,8 @@
 ### WIREFRAMES / MOCKUPS :
 - [Balsamiq](https://balsamiq.com/) : wireframes.
 - [Figma](https://www.figma.com/) : wire frames.
-- [Lucid Chart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucid%20chart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=354596054350&km_CPC_TargetID=kwd-55720648523&km_CPC_Country=9061582&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOWd-aAfWgTzdJakjoJHLkdNiAJMRGWM6YcYIJWJl9zKQhzKJIGfYaQaAluFEALw_wcB) : Flow chart mockup
-- [Draw SQL](https://drawsql.app/) : ERD mockup (projects  4 & 5)
+- [Lucid Chart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucid%20chart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=354596054350&km_CPC_TargetID=kwd-55720648523&km_CPC_Country=9061582&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOWd-aAfWgTzdJakjoJHLkdNiAJMRGWM6YcYIJWJl9zKQhzKJIGfYaQaAluFEALw_wcB) : Flow chart mockup (PP3)
+- [Draw SQL](https://drawsql.app/) : ERD mockup (PP4 & PP5)
 ---
 ### PROJECT CREATION :
 - [C.I. Project Setup](https://code-institute-students.github.io/codeanywhere-docs/workspace-setup/) : A set up guide on how to use CodeAnywhere 
@@ -38,7 +37,12 @@
 - [JS Hint](https://jshint.com/) : JavaScript validator
 - [Diff checker](https://www.diffchecker.com/#) : compare differences between file versions.
 - [PEP8](http://pep8online.com/) : Python validator
+---
+### CHROME EXTENSIONS :
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessibility to contract in your site
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : Allows you see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
+- [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) : Find the HEX values of colours on websites.
+- [React Dev Tools - PP5 ADVFE](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) : Lights up when visiting a React page. Allows you to see the components tree.
 ---
 ### CONTENT :
 - [Tiny PNG](https://tinypng.com/) : Image compression.
