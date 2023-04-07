@@ -23,6 +23,7 @@
 - [Draw SQL](https://drawsql.app/) : ERD mockup (projects  4 & 5)
 ---
 ### PROJECT CREATION :
+- [C.I. Project Setup](https://code-institute-students.github.io/codeanywhere-docs/workspace-setup/) : A set up guide on how to use CodeAnywhere 
 - [C.I. repository template](https://github.com/Code-Institute-Org/gitpod-full-template): Repository template for PP1 & PP2
 - [Git commit messages](https://cbea.ms/git-commit/#separate) : How to write a commit message.
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) : Writing conventional commit messages.
