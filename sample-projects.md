@@ -3,6 +3,7 @@
 - [Naka Tomato Society](https://github.com/Pelikantapeten/p1-nacka-tomato-society)
 - [Survival Guild](https://github.com/Irishbecky91/survival-guild)
 - [Horizon Gamepedia](https://github.com/AlexaH88/horizon-gamepedia)
+<!-- - [Vincent Van Gogh](https://github.com/leoniemclaughlin7/Vincent-Van-Gogh#vincent-van-gogh) -->
 
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
