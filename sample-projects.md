@@ -3,16 +3,20 @@
 - [Naka Tomato Society](https://github.com/Pelikantapeten/p1-nacka-tomato-society)
 - [Survival Guild](https://github.com/Irishbecky91/survival-guild)
 - [Horizon Gamepedia](https://github.com/AlexaH88/horizon-gamepedia)
+<!-- - [Rhino Aid](https://github.com/Tony118g/rhino-aid) -->
 <!-- - [Vincent Van Gogh](https://github.com/leoniemclaughlin7/Vincent-Van-Gogh#vincent-van-gogh) -->
 
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
+<!-- - [The Everything Quiz](https://github.com/Tony118g/the-everything-quiz) -->
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
+<!-- - [Doctor Diary](https://github.com/Tony118g/doctor-diary) -->
 
 ### PP4 - Django :
 - [Anthemology](https://github.com/AlexaH88/anthemology)
+<!-- - [Bundu Restaurant](https://github.com/Tony118g/bundu-restaurant) -->
 
 ### PP5 - ADVANCED FRONT END (React) :
 
