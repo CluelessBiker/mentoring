@@ -9,6 +9,7 @@
 
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
+- [Leeds Quiz](https://github.com/andreas-ka/leeds-quiz)
 <!-- - [The Everything Quiz](https://github.com/Tony118g/the-everything-quiz) -->
 
 ### PP3 - Python :
