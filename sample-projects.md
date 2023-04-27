@@ -15,7 +15,8 @@
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
-<!-- - [Doctor Diary](https://github.com/Tony118g/doctor-diary) -->
+- [Dad Jokes](https://github.com/Pelikantapeten/p3-dad-jokes)
+- [Doctor Diary](https://github.com/Tony118g/doctor-diary)
 
 ### PP4 - Django :
 - [Anthemology](https://github.com/AlexaH88/anthemology)
