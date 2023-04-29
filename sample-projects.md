@@ -11,7 +11,7 @@
 - [Piannotes](https://github.com/AlexaH88/pianotes)
 - [Leeds Quiz](https://github.com/andreas-ka/leeds-quiz)
 <!-- - [The Everything Quiz](https://github.com/Tony118g/the-everything-quiz) -->
-<!-- - [Memento](https://github.com/AndreeeasN/pp2-project) -->
+- [Memento](https://github.com/AndreeeasN/pp2-memento)
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
