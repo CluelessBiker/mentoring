@@ -36,7 +36,8 @@
 - [W3C](https://jigsaw.w3.org/css-validator/) : CSS validator
 - [JS Hint](https://jshint.com/) : JavaScript validator
 - [Diff checker](https://www.diffchecker.com/#) : compare differences between file versions.
-- [PEP8](http://pep8online.com/) : Python validator
+<!-- - [PEP8](http://pep8online.com/) : Python validator -->
+- [PEP8 Lintner : C.I.](https://pep8ci.herokuapp.com)
 ---
 ### CHROME EXTENSIONS :
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessibility to contract in your site
