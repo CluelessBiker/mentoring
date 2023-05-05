@@ -38,6 +38,7 @@
 - [Diff checker](https://www.diffchecker.com/#) : compare differences between file versions.
 <!-- - [PEP8](http://pep8online.com/) : Python validator -->
 - [PEP8 Lintner : C.I.](https://pep8ci.herokuapp.com)
+- Install a python linter directly into your project following [these steps](https://code-institute-room.slack.com/archives/CPCT0MBKL/p1664380977854349) in Slack.
 ---
 ### CHROME EXTENSIONS :
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessibility to contract in your site
