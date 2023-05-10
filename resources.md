@@ -76,7 +76,11 @@
 - [Code Wars](https://www.codewars.com/) : JS (& other languages) based games designed to help you improve.
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
 ---
-## PROJECT SPECIIFIC :
+### HELPFUL TOOLS : 
+- [Goblin ToDo](https://goblin.tools/) : an online tool that breaks down your tasks into smaller pieces, making the job more manageable.
+---
+
+## PROJECT SPECIFIC :
 
 ### PP4 - Django :
 - [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLS that have not been secured.
