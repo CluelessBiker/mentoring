@@ -90,6 +90,7 @@
 ### PP5 - Advanced Front End (React) :
 - [ESLint installation & setup](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b) - a package that can be installed in your React app to check your code. Requires configuration
 - [ESLint Playground](https://eslint.org/play/) : manually check your files through the online ESLint.
+- [Postman](https://www.postman.com/) : Allows you to make API calls & view responses - [download desktop app](https://www.postman.com/downloads/)
 
 #### ADVFE SUPPLEMENTAL LEARNING :
 - [Complete intro to React](https://frontendmasters.com/courses/complete-react-v8/) : a course by Brian Holt on FrontEnd Masters.
