@@ -10,8 +10,9 @@
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
 - [Leeds Quiz](https://github.com/andreas-ka/leeds-quiz)
-<!-- - [The Everything Quiz](https://github.com/Tony118g/the-everything-quiz) -->
+- [The Everything Quiz](https://github.com/Tony118g/the-everything-quiz)
 - [Memento](https://github.com/AndreeeasN/pp2-memento)
+- [quick mem](https://github.com/Pelikantapeten/p2-quickmem/tree/main)
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
