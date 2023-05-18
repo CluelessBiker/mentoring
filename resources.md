@@ -86,6 +86,28 @@
 - [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLS that have not been secured.
 - [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
 - [Common reasons for failign PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
+- [Django database extension](https://medium.com/@yathomasi1/1-using-django-extensions-to-visualize-the-database-diagram-in-django-application-c5fa7e710e16) : Allows you to generate a schema of your database to visually see the connections. A few extra commands may be needed:
+```
+sudo apt update
+sudo apt-get install python3-dev graphviz libgraphviz-dev pkg-config
+```
+Press `Y` to confirm
+```
+pip3 install django-extensions pygraphviz
+```
+Add to your `settings.py`
+```
+INSTALLED_APPS = [
+    ...
+    'django_extensions',
+    ...
+]
+```
+And run the following commands in the terminal :
+```
+python3 manage.py graph_models -a -o erd.png
+pip3 freeze --local > requirements.txt
+```
 
 ### PP5 - Advanced Front End (React) :
 - [ESLint installation & setup](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b) - a package that can be installed in your React app to check your code. Requires configuration
