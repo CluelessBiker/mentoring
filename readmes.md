@@ -14,7 +14,7 @@
 --- 
 
 ## PP1 | PP2 | PP3 : [C.I. Template](https://github.com/Code-Institute-Solutions/readme-template)
-
+#### View the CI README in [Markdown](https://raw.githubusercontent.com/Code-Institute-Solutions/readme-template/master/README.md)
 ***Additional Content :***
 - [ ] Wire frames - [Balsamiq](https://balsamiq.com/) / Data schema - [Lucid chart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucid%20chart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=354596054350&km_CPC_TargetID=kwd-55720648523&km_CPC_Country=9061582&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOWd-aAfWgTzdJakjoJHLkdNiAJMRGWM6YcYIJWJl9zKQhzKJIGfYaQaAluFEALw_wcB) : a pen/paper sketch will suffice
 - [ ] User stories: e.g `As a **user** I want to **fill out the contact form** so that I can **contact the company**`
