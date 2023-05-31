@@ -3,7 +3,8 @@
 ### CSS & STYLING :
 - [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) : a complete guide &  visual aide on flexbox.
 - [W3Schools Flexbox](https://www.w3schools.com/css/css3_flexbox_responsive.asp) : a guide on CSS flexbox.
-- [CSS Flexbox Froggy](https://flexboxfroggy.com/) : A game to teach you  how CSS Flexbox works.
+- [CSS Flexbox Froggy](https://flexboxfroggy.com/) : A game to teach you how CSS Flexbox works.
+- [Quick Guide to CSS Flexbox - YouTube](https://www.youtube.com/watch?v=2uvyx4YK_rQ&list=PLXuTq6OsqZjYGLkK4d0RExJ98-m-IOIc2&index=1) : a demonstration on how to use flexbox.
 - [CSS Grid Garden](https://cssgridgarden.com/) : A game to teach you how CSS  Gris works.
 ---
 ### READMEs :
