@@ -113,10 +113,12 @@ pip3 freeze --local > requirements.txt
 ### PP5 - Advanced Front End (React) :
 - [ESLint installation & setup](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b) - a package that can be installed in your React app to check your code. Requires configuration
 - [ESLint Playground](https://eslint.org/play/) : manually check your files through the online ESLint.
+- [Prettier](https://frontendmasters.com/courses/complete-react-v8/npm-prettier-setup/) - [ESLint - install](https://frontendmasters.com/courses/complete-react-v8/eslint-git-setup/) - [ESLint - configuration](https://frontendmasters.com/courses/complete-react-v8/configuring-eslint-react/) : Brian Holt demonstrates this in his FrontEnd Masters course.
 - [Postman](https://www.postman.com/) : Allows you to make API calls & view responses - [download desktop app](https://www.postman.com/downloads/)
 
 #### ADVFE SUPPLEMENTAL LEARNING :
 - [Complete intro to React](https://frontendmasters.com/courses/complete-react-v8/) : a course by Brian Holt on FrontEnd Masters.
+- [Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) : Udemy(**paid**) Course by Andrei Neagoie & Yihua Zhang in their Zero-to-Mastery series.
 - [Modern React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) : Youtube series by The Net Ninja
 - [React for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) : Youtube tutorial by Programming with Mosh
 - [React Crash Course](https://www.youtube.com/watch?v=jLS0TkAHvRg) : Youtube tutorial by Codevolution
