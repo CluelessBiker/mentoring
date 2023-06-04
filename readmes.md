@@ -17,7 +17,9 @@
 #### View the CI README in [Markdown](https://raw.githubusercontent.com/Code-Institute-Solutions/readme-template/master/README.md)
 ***Additional Content :***
 - [ ] Wire frames - [Balsamiq](https://balsamiq.com/) / Data schema - [Lucid chart](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucid%20chart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=354596054350&km_CPC_TargetID=kwd-55720648523&km_CPC_Country=9061582&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOWd-aAfWgTzdJakjoJHLkdNiAJMRGWM6YcYIJWJl9zKQhzKJIGfYaQaAluFEALw_wcB) : a pen/paper sketch will suffice
-- [ ] User stories: e.g `As a **user** I want to **fill out the contact form** so that I can **contact the company**`
+- [ ] User stories: e.g :
+- As a **user** I want to **fill out the contact form** so that I can **contact the company**
+- As a **user** I want to **view the about page** so that I can **learn more about the company**
 - [ ] Design choices & the reason behind them : colour schemes | font selection | features added
 
 --- 
@@ -29,7 +31,7 @@
 
 ***Additional Content :***
 - [ ] Detailed explanation of data schema
-- [ ] Combine ***User stories*** into ***Epics***
+- [ ] Combine ***User stories*** into ***Epics*** : e.g. the user stories for `sign-up`, `login`, `logout` can be grouped into a single epic as they are related features.
 - [ ] Document all bugs & their fixes + an explanation of any bugs left unfixed & why
 
 --- 
@@ -57,11 +59,12 @@
 ## TESTING AS A TABLE :
 **TEST** | **ACTION** | **EXPECTATION** | **RESULT** 
 ----------|----------|----------|----------
-Home page	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
-Home page	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
+Home page | Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
+Home page | Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
 Contact form | Click send button without data in form fields | Cannot submit form | Works as expected
 Nav bar - home page | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
 
+- To achieve the above table, this is what the formatting your README will look like :
 ```
 **TEST** | **ACTION** | **EXPECTATION** | **RESULT** 
 ----------|----------|----------|----------
