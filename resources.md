@@ -9,7 +9,7 @@
 ---
 ### READMEs :
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) : How to add markdown & styling to your README.
-- [README template - C.I.](https://github.com/Code-Institute-Solutions/readme-template) : A template for how to compose your projct README.
+- [README template - C.I.](https://github.com/Code-Institute-Solutions/readme-template) : A template for how to compose your project README.
 - [Project mock-up (techsini)](https://techsini.com/multi-mockup/) : Display your deployed link across different device screens.
 - [AM I Responsive](http://ami.responsivedesign.is/) : Another mockup generator
 ---
@@ -23,7 +23,7 @@
 - [Draw SQL](https://drawsql.app/) : ERD mockup (PP4 & PP5)
 ---
 ### PROJECT CREATION :
-- [C.I. Project Setup](https://code-institute-students.github.io/codeanywhere-docs/workspace-setup/) : A set up guide on how to use CodeAnywhere 
+- [C.I. Project Setup](https://code-institute-students.github.io/codeanywhere-docs/workspace-setup/) : A setup guide on how to use CodeAnywhere 
 - [C.I. repository template](https://github.com/Code-Institute-Org/gitpod-full-template): Repository template for PP1 & PP2
 - [Git commit messages](https://cbea.ms/git-commit/#separate) : How to write a commit message.
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) : Writing conventional commit messages.
@@ -43,7 +43,7 @@
 ---
 ### CHROME EXTENSIONS :
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessibility to contract in your site
-- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : Allows you see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : Allows you to see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) : Find the HEX values of colours on websites.
 - [React Dev Tools - PP5 ADVFE](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) : Lights up when visiting a React page. Allows you to see the components tree.
 ---
@@ -85,9 +85,13 @@
 ## PROJECT SPECIFIC :
 
 ### PP4 - Django :
-- [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLS that have not been secured.
+- [breakpoint()](https://www.python-engineer.com/posts/python-debugger-and-breakpoint/) : a method to debug your code
+- [Termcolor](https://pypi.org/project/termcolor/) : add pops of color to your terminal output
+
+### PP4 - Django :
+- [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLs that have not been secured.
 - [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
-- [Common reasons for failign PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
+- [Common reasons for failing PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
 - [Django database extension](https://medium.com/@yathomasi1/1-using-django-extensions-to-visualize-the-database-diagram-in-django-application-c5fa7e710e16) : Allows you to generate a schema of your database to visually see the connections. A few extra commands may be needed:
 ```
 sudo apt update
@@ -123,3 +127,4 @@ pip3 freeze --local > requirements.txt
 - [Modern React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) : Youtube series by The Net Ninja
 - [React for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) : Youtube tutorial by Programming with Mosh
 - [React Crash Course](https://www.youtube.com/watch?v=jLS0TkAHvRg) : Youtube tutorial by Codevolution
+- [FireBase](https://firebase.google.com/) : a free DB tool should you wish to experiment in future, personal projects (**cannot** be used for PP5)
