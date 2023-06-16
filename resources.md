@@ -77,6 +77,7 @@
 - [Code Wars](https://www.codewars.com/) : JS (& other languages) based games designed to help you improve.
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
 - [HakerRank](https://www.hackerrank.com/) : practise for tech tests
+- [CodeBar](https://codebar.io/) : tutorials, workshops, events
 ---
 ### HELPFUL TOOLS : 
 - [Goblin ToDo](https://goblin.tools/) : an online tool that breaks down your tasks into smaller pieces, making the job more manageable.
