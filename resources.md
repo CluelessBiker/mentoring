@@ -85,7 +85,7 @@
 
 ## PROJECT SPECIFIC :
 
-### PP4 - Django :
+### PP3 - Python :
 - [breakpoint()](https://www.python-engineer.com/posts/python-debugger-and-breakpoint/) : a method to debug your code
 - [Termcolor](https://pypi.org/project/termcolor/) : add pops of color to your terminal output
 
