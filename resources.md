@@ -80,6 +80,7 @@
 - [CodeBar](https://codebar.io/) : tutorials, workshops, events
 ---
 ### HELPFUL TOOLS : 
+- [Pseudoeditor](https://pseudoeditor.com/app/) : online tool to aide you in writing pseudo code.
 - [Goblin ToDo](https://goblin.tools/) : an online tool that breaks down your tasks into smaller pieces, making the job more manageable.
 ---
 
