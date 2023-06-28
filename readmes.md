@@ -1,5 +1,7 @@
 # README REQUIREMENTS :
 
+- [README formatter](https://stackedit.io/app#) : very useful tool
+
 ## ALL READMES :
 - [ ] Written with [markdown](https://www.markdownguide.org/cheat-sheet/)
 - [ ] Commit the README the same way you commit your project : "feat(readme): added testing steps"
