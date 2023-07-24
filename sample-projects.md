@@ -20,6 +20,7 @@
 - [Dad Jokes](https://github.com/Pelikantapeten/p3-dad-jokes)
 - [Doctor Diary](https://github.com/Tony118g/doctor-diary)
 - [Bigfoot Rage](https://github.com/andreas-ka/bigfoot-rage)
+- [Russian Roulette](https://github.com/DebbieBergstrom/Russian-Roulette/tree/main)
 
 ### PP4 - Django :
 - [Anthemology](https://github.com/AlexaH88/anthemology)
