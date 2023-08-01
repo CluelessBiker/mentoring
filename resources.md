@@ -44,6 +44,7 @@
 ### CHROME EXTENSIONS :
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related) : website evaluation tool that checks everything from accessibility to contract in your site
 - [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : Allows you to see the elements on your page, and the space that they take up so that you may understand how one item is affecting the rest.
+- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) : performance evaluation tool.
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) : Find the HEX values of colours on websites.
 - [React Dev Tools - PP5 ADVFE](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) : Lights up when visiting a React page. Allows you to see the components tree.
 ---
@@ -80,7 +81,7 @@
 - [CodeBar](https://codebar.io/) : tutorials, workshops, events
 ---
 ### HELPFUL TOOLS : 
-- [Pseudoeditor](https://pseudoeditor.com/app/) : online tool to aide you in writing pseudo code.
+- [Pseudoeditor](https://pseudoeditor.com/app/) : an online tool to aid you in writing pseudo code.
 - [Goblin ToDo](https://goblin.tools/) : an online tool that breaks down your tasks into smaller pieces, making the job more manageable.
 ---
 
@@ -91,7 +92,7 @@
 - [Termcolor](https://pypi.org/project/termcolor/) : add pops of color to your terminal output
 
 ### PP4 - Django :
-- [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessingn data through URLs that have not been secured.
+- [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessing data through URLs that have not been secured.
 - [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
 - [Common reasons for failing PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
 - [Django database extension](https://medium.com/@yathomasi1/1-using-django-extensions-to-visualize-the-database-diagram-in-django-application-c5fa7e710e16) : Allows you to generate a schema of your database to visually see the connections. A few extra commands may be needed:
