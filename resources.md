@@ -90,6 +90,9 @@
 ### PP3 - Python :
 - [breakpoint()](https://www.python-engineer.com/posts/python-debugger-and-breakpoint/) : a method to debug your code
 - [Termcolor](https://pypi.org/project/termcolor/) : add pops of color to your terminal output
+- [PyFiglet](https://pypi.org/project/pyfiglet/0.7/) : helps render ASCII art
+
+*-Do not use Pygame or any py guis-*
 
 ### PP4 - Django :
 - [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessing data through URLs that have not been secured.
