@@ -20,7 +20,7 @@
 - On MAC OS: `Shift`+`Option`+`F`
 - On Ubuntu : `Shift`+`Ctrl`+`I`
 
-( If it asks you to set up a configuration, just choose 'prettier'. )
+ ** If it asks you to set up a configuration, just choose 'prettier'. 
 
 ---
 #### Adjust indentation :
@@ -28,7 +28,7 @@
 - On MAC OS: `Command`+`]` or `[`
 - On Ubuntu : `Ctrl`+`]` or `[`
   
-(*Works on the line where your cursor is, or on anything highlighted.)
+** Works on the line where your cursor is, or on anything highlighted.
 
 ---
 
@@ -38,7 +38,7 @@
 - On MAC OS: `Option`+`Up` or `Down`
 - On Ubuntu : `Alt`+`Up` or `Down`
 
-(To move a section of code up or down, highlight the section of code and then use the shortcut.)
+** To move a section of code up or down, highlight the section of code and then use the shortcut.
 
 ---
 
@@ -49,7 +49,7 @@
 - On MAC OS: `Shift`+`Option`+`Up` or `Down`
 - On Ubuntu : `Shift`+`Alt`+`Up` or `Down`
 
-(To add multiple cursors in specific locations hold `Alt` and click where you want to add a cursor. To remove a single cursor hold `Alt` and click on the cursor you want to remove.)
+** To add multiple cursors in specific locations hold `Alt` and click where you want to add a cursor. To remove a single cursor hold `Alt` and click on the cursor you want to remove.
 
 ---
 
@@ -65,6 +65,6 @@
 - On MAC OS: `Command`+`D`
 - On Ubuntu : `Ctrl`+`D`
 
-(Highlight a section of code to duplicate multiple lines at once)
+** Highlight a section of code to duplicate multiple lines at once.
 
 ---
