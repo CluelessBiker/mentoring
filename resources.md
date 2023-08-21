@@ -59,6 +59,7 @@
 - [Stock Vault](https://www.stockvault.net/)
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
+- [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F) : AI generative art
 #### COLOUR
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 - [Contrast checker](https://webaim.org/resources/contrastchecker/)
