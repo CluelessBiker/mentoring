@@ -25,7 +25,8 @@
 
 ### PP4 - Django :
 - [Anthemology](https://github.com/AlexaH88/anthemology)
-<!-- - [Bundu Restaurant](https://github.com/Tony118g/bundu-restaurant) -->
+- [Bundu Restaurant](https://github.com/Tony118g/bundu-restaurant)
+- [MS Dashboard](https://github.com/Pelikantapeten/p4-ms-dashboard)
 
 ### PP5 - ADVANCED FRONT END (React) :
 
