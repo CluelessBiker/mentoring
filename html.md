@@ -16,6 +16,8 @@
 - Each major section of your project should be commented.
 - Inside the `<body>`, there are three main elements, which you are expected to incorporate into your project (see below): `<header>`, `<main>`, `<footer>`
 
+*( If your self-closing HTML tags end with an ```/>``` , eg: ```<meta />``` instead of ```<meta>``` this is put in place by **Prettier**. Please leave a comment in your README addressing this, as W3C will flag it with an **info** tag when you validate your files. The issue was raised in this [ticket](https://github.com/prettier/prettier/issues/5641), & closed by the dev as it was not considered to be an issue. )*
+
 ```
 <body>
     <!-- This is the header : -->
