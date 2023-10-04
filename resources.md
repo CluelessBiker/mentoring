@@ -92,6 +92,8 @@
 - [breakpoint()](https://www.python-engineer.com/posts/python-debugger-and-breakpoint/) : a method to debug your code
 - [Termcolor](https://pypi.org/project/termcolor/) : add pops of color to your terminal output
 - [PyFiglet](https://pypi.org/project/pyfiglet/0.7/) : helps render ASCII art
+- [Tabulate](https://pypi.org/project/tabulate/) : Format data into neat tables
+- [timedelta](https://docs.python.org/3/library/datetime.html#timedelta-objects) : Getting time between dates
 
 *-Do not use Pygame or any py guis-*
 

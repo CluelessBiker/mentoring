@@ -36,6 +36,8 @@ Input - User name - Valid data	| Entered in : characters in scope | app proceeds
 
 --- 
 
+Alternatively, create it in google sheets / excel with the above headers. Copy the cells and paste into https://tabletomarkdown.com/ - This will generate the markdown for you.
+
 ## PP4 :
 - [ ] Wireframes
 - [ ] Design choices & the reason behind them : colour schemes | font selection | features added
