@@ -15,8 +15,7 @@
 12. Deployment: Deploy the final version of your code to a hosting platform such as Heroku.
 13. Security: Make sure to not include any passwords or secret keys in the project repository. Make sure to turn off the Django DEBUG mode, which could expose secrets.
 
-**This [document](ms4-loa.pdf) contains the full list***
-
+**This [document](ms4-loa.pdf) contains the full list**
 
 ### README :
 - [ ] Written with [markdown](https://www.markdownguide.org/cheat-sheet/)
@@ -26,7 +25,7 @@
 - [ ] User stories - As a **user** I want to **fill out the contact form** so that I can **contact the company**
 - [ ] Design : Wireframes (sketch is fine), colour palette, typography - & why you chose them
 - [ ] Screenshots of all site features (Nav bar | footer | tables | etc...) accompanied by an explanation of what each feature does.
-- [ ] Show & explain your ERD model (your database structure & how your models relate to each other : I recommend using [Lucid Chart](https://www.lucidchart.com/) for this
+- [ ] Show & explain your ERD model (your database structure & how your models relate to each other : I recommend using [DrawSQL](https://drawsql.app/) for this
 - [ ] Thorough testing steps & screenshots of validator testing
 - [ ] All deployment steps including initial steps to clone the repo (git add/commit/push | deploy to github pages)
 - [ ] Credit code & media sources
@@ -49,3 +48,16 @@ Home page	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | 
 Contact form | Click send button without data in form fields | Cannot submit form | Works as expected
 Nav bar - home page | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
 ```
+
+### TESTING / VALIDATORS :
+- [W3](https://validator.w3.org/) : HTML validator
+- [W3C](https://jigsaw.w3.org/css-validator/) : CSS validator
+- [JS Hint](https://jshint.com/) : JavaScript validator
+- [PEP8 Lintner : C.I.](https://pep8ci.herokuapp.com)
+- Install a python linter directly into your project following [these steps](https://code-institute-room.slack.com/archives/CPCT0MBKL/p1664380977854349) in Slack.
+
+### ADDITIONAL LEARNING : 
+- [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessing data through URLs that have not been secured.
+- [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
+- [Common reasons for failing PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
+- [Django database extension](https://medium.com/@yathomasi1/1-using-django-extensions-to-visualize-the-database-diagram-in-django-application-c5fa7e710e16) : Allows you to generate a schema of your database to visually see the connections.
