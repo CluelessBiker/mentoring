@@ -30,7 +30,7 @@ Additional libraries and external APIs
 - [ ] User stories - As a **user** I want to **fill out the contact form** so that I can **contact the company**
 - [ ] Design : Wireframes (sketch is fine), colour palette, typography - & why you chose them
 - [ ] Screenshots of all site features (Nav bar | footer | tables | etc...) accompanied by an explanation of what each feature does.
-- [ ] Show & explain your ERD model (your database structure & how your models relate to each other : I recommend using [Lucid Chart](https://www.lucidchart.com/) for this
+- [ ] Show & explain your ERD model (your database structure & how your models relate to each other : I recommend using [DrawSQL](https://drawsql.app/) for this
 - [ ] Thorough testing steps & screenshots of validator testing
 - [ ] All deployment steps including initial steps to clone the repo (git add/commit/push | deploy to github pages)
 - [ ] Credit code & media sources
