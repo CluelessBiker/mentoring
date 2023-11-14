@@ -98,6 +98,7 @@
 *-Do not use Pygame or any py guis-*
 
 ### PP4 - Django :
+- [YouTube - Database Tutorial for Beginners](https://www.youtube.com/watch?v=wR0jg0eQsZA) : a bitesize explanation on databases & relations
 - [Securing Django Views from Unauthorized Access](https://www.codu.co/articles/securing-django-views-from-unauthorized-access-npyb3to_) : blog post explaining how to prevent users accessing data through URLs that have not been secured.
 - [Django walkthrough series](https://www.youtube.com/watch?v=sBjbty691eI&list=PLXuTq6OsqZjbCSfiLNb2f1FOs8viArjWy) : YouTube
 - [Common reasons for failing PP4](https://www.youtube.com/watch?v=Q5cdZXomzVg) : Youtube - an assessor shares common reasons students fail this project, & and has an FAQ.
