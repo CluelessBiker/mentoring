@@ -8,6 +8,7 @@
 - [Trave](https://github.com/conroy9068/project-1-trave-website)
 - [At Lujain](https://github.com/SalMod91/project-1-at-lujain)
 - [Space Fruit](https://github.com/ShaneDoyleDev/spacefruit)
+- [TG Portfolio](https://github.com/timgoalen/tg-composer-portfolio)
 
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
@@ -16,6 +17,7 @@
 - [Memento](https://github.com/AndreeeasN/pp2-memento)
 - [quick mem](https://github.com/Pelikantapeten/p2-quickmem/tree/main)
 - [CyberCypher](https://github.com/ShaneDoyleDev/cybercypher/tree/main)
+- [Identify this chord](https://github.com/timgoalen/identify-this-chord)
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
@@ -23,11 +25,13 @@
 - [Doctor Diary](https://github.com/Tony118g/doctor-diary)
 - [Bigfoot Rage](https://github.com/andreas-ka/bigfoot-rage)
 - [Russian Roulette](https://github.com/DebbieBergstrom/Russian-Roulette/tree/main)
+- [Commandline Coffee](https://github.com/timgoalen/command-line-coffee)
 
 ### PP4 - Django :
 - [Anthemology](https://github.com/AlexaH88/anthemology)
 - [Bundu Restaurant](https://github.com/Tony118g/bundu-restaurant)
 - [MS Dashboard](https://github.com/Pelikantapeten/p4-ms-dashboard)
+- [Magical Places - London](https://github.com/timgoalen/magical-places-london)
 
 ### PP5 - ADVANCED FRONT END (React) :
 
