@@ -6,6 +6,7 @@
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/) : A game to teach you how CSS Flexbox works.
 - [Quick Guide to CSS Flexbox - YouTube](https://www.youtube.com/watch?v=2uvyx4YK_rQ&list=PLXuTq6OsqZjYGLkK4d0RExJ98-m-IOIc2&index=1) : a demonstration on how to use flexbox.
 - [CSS Grid Garden](https://cssgridgarden.com/) : A game to teach you how CSS  Gris works.
+- [CSS - Inclusively Hidden](https://css-tricks.com/inclusively-hidden/) : how to resolve the WAVE error for the burger menu in PP1
 ---
 ### READMEs :
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) : How to add markdown & styling to your README.
