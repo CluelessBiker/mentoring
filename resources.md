@@ -125,6 +125,9 @@ python3 manage.py graph_models -a -o erd.png
 pip3 freeze --local > requirements.txt
 ```
 
+- [login_required](https://www.fullstackpython.com/django-contrib-auth-decorators-login-required-examples.html) : Restricting view access to authenticated users
+- [Polls - Pretty Printed](https://prettyprinted.com/tutorials/creating-a-poll-app-in-django/) : a tutorial on how to implement a polling feature
+
 ### PP5 - Advanced Front End (React) :
 - [ESLint installation & setup](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b) - a package that can be installed in your React app to check your code. Requires configuration
 - [ESLint Playground](https://eslint.org/play/) : manually check your files through the online ESLint.
