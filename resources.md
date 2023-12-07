@@ -134,12 +134,12 @@ pip3 freeze --local > requirements.txt
 - [ESLint Playground](https://eslint.org/play/) : manually check your files through the online ESLint.
 - [Prettier](https://frontendmasters.com/courses/complete-react-v8/npm-prettier-setup/) - [ESLint(install)](https://frontendmasters.com/courses/complete-react-v8/eslint-git-setup/) - [ESLint(configuration)](https://frontendmasters.com/courses/complete-react-v8/configuring-eslint-react/) : Brian Holt demonstrates this in his FrontEnd Masters course.
 - [Postman](https://www.postman.com/) : Allows you to make API calls & view responses - [download desktop app](https://www.postman.com/downloads/)
+- [Collect static](https://code-institute-students.github.io/advfe-unified-workspace/deployment/02-compiling-the-static-files) : **combined repos ONLY** - If Heroku is deploying from an older commit & *will not* deploy from the latest one, follow the instructions listed.
 
 #### Creating your PP5 in a single app :
 - How to combine your [Frontend & Backend](https://code-institute-students.github.io/advfe-unified-workspace/combining-workspaces/00-combining-workspaces) repositories : follow these instructions if you have already created two separate repos & wish to combine them
 - Initiate your [Frontend app](https://code-institute-students.github.io/advfe-unified-workspace/creating-an-app-in-a-workspace/00-creating-an-app-in-a-workspace) inside your Backend repo : If your DRF API is already created, follow these steps to create  your React app within the same repo
 - Steps for [deploying](https://code-institute-students.github.io/advfe-unified-workspace/deployment/00-deployment) the combined workspace (For all AdvFE students)
-
 *If you have combined your front/back-end into a single repo, please use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSddZXGNJ8ZwZ2qy-MEd26scSLTFn75aXLG0pi1Jn9g_RYx6oQ/viewform) to submit your project*
 
 #### ADVFE SUPPLEMENTAL LEARNING :
