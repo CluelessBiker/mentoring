@@ -149,3 +149,6 @@ pip3 freeze --local > requirements.txt
 - [React for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) : Youtube tutorial by Programming with Mosh
 - [React Crash Course](https://www.youtube.com/watch?v=jLS0TkAHvRg) : Youtube tutorial by Codevolution
 - [FireBase](https://firebase.google.com/) : a free DB tool should you wish to experiment in future, personal projects (**cannot** be used for PP5)
+
+  ##### REACT PACKAGES :
+- [i18next](https://react.i18next.com/) : a package allowing you to integrate multiple languages into your project
