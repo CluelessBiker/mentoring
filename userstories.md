@@ -6,12 +6,23 @@
 - Assign stories [Story Points](https://www.simplilearn.com/story-points-in-agile-article#:~:text=Story%20points%20represent%20the%20complexity,approach%20estimates%20employing%20story%20points.)
 
 ## PROJECT / KANBAN BOARD :
-- To add a *Kanban board* to your repository, navigate to your project repo, click on `Projects` up at the top, on the big green button `Link a project` click the dropdown icon, & select `New Project`.
+- To add a *Kanban board* to your repository:
+  - navigate to your project repo
+  - click on `Projects` up at the top
+  - on the big green button `Link a project` click the dropdown icon
+  - select `New Project`
 
 ## ISSUES :
-- Below is a template that you may use to populate your own user stories in **Github Issues**
-- To add an Issues template to your repo, navigate first into your repo, click on `settings`, scroll down to `Features > Issues`, click `Set up template`, click `Add template` & finally, select `Custom template`. [Github docs](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
-- When creating a user story, from the panel on the right, you can link the issue directly to your project/kanban board by clicking on the gear icon next to `Projects`:gear:
+- Below is a template that you may use to populate your own user stories in *Github Issues*
+- To add an Issues template to your repo : [Github docs](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+  - navigate first into your repo
+  - click on `settings`
+  - scroll down to `Features > Issues`
+  - click `Set up template`
+  - click `Add template`
+  - finally, select `Custom template`.
+
+  - When creating a user story, from the panel on the right, you can link the issue directly to your project/kanban board by clicking on the gear icon next to `Projects`:gear:
 ```
 USER STORY:
 As a **role** I can **capability** so that **received benefit**.
