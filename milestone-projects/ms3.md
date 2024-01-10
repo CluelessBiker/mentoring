@@ -20,7 +20,7 @@ Additional libraries and external APIs
 ### !IMPORTANT NOTE! :
 - Feel free to reuse the authentication from the mini-project. The focus of this milestone project is on the data, rather than any business logic.
 
-**This [document](ms3-loa.pdf) contains the full list***
+**This [document](docs/ms3-loa.pdf) contains the full list***
 
 ### README :
 - [ ] Written with [markdown](https://www.markdownguide.org/cheat-sheet/)

@@ -15,7 +15,7 @@ A project violating any of these requirements will FAIL
 6. Attribution: Maintain clear separation between code written by you and code from external sources (e.g. libraries or tutorials). Attribute any code from external sources to its source via comments above the code and (for larger dependencies) in the README.
 7. Deployment: Deploy the final version of your code to a hosting platform such as GitHub Pages.
 
-**This [document](ms2-loa.pdf) contains the full list**
+**This [document](docs/ms2-loa.pdf) contains the full list**
 
 ### README :
 - [ ] Written with [markdown](https://www.markdownguide.org/cheat-sheet/)

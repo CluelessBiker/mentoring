@@ -15,7 +15,7 @@
 12. Deployment: Deploy the final version of your code to a hosting platform such as Heroku.
 13. Security: Make sure to not include any passwords or secret keys in the project repository. Make sure to turn off the Django DEBUG mode, which could expose secrets.
 
-**This [document](ms4-loa.pdf) contains the full list**
+**This [document](docs/ms4-loa.pdf) contains the full list**
 
 ### README :
 - [ ] Written with [markdown](https://www.markdownguide.org/cheat-sheet/)
@@ -25,7 +25,7 @@
 - [ ] User stories - As a **user** I want to **fill out the contact form** so that I can **contact the company**
 - [ ] Design : Wireframes (sketch is fine), colour palette, typography - & why you chose them
 - [ ] Screenshots of all site features (Nav bar | footer | tables | etc...) accompanied by an explanation of what each feature does.
-- [ ] Show & explain your ERD model (your database structure & how your models relate to each other : I recommend using [DrawSQL](https://drawsql.app/) for this
+- [ ] Show & explain your ERD model (your database structure & how your models relate to each other) : I recommend using [DrawSQL](https://drawsql.app/) for this
 - [ ] Thorough testing steps & screenshots of validator testing
 - [ ] All deployment steps including initial steps to clone the repo (git add/commit/push | deploy to github pages)
 - [ ] Credit code & media sources

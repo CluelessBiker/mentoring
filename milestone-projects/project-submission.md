@@ -15,4 +15,4 @@ If you have any questions about this or anything else, please feel free to reach
 - Contact: studentcare@codeinstitute.net
 - LMS: [Dashboard](https://learn.codeinstitute.net/dashboard)
 
-![Where to click](learningSupports.png)
+![Where to click](screenshots/learningSupports.png)
