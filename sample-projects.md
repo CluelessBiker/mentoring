@@ -40,11 +40,11 @@
 - [Cozy Corner](https://github.com/mikakallberg/cozycorner) | [Backend API](https://github.com/mikakallberg/Project-Portfolio-5-DRF)
 - [Explore Stockholm](https://github.com/andreas-ka/explore-sthlm-react-frontend) | [Backend API](https://github.com/andreas-ka/explore-sthlm-api)
 
-  ### PP5 - ECOMMERCE (Django) :
-- [Sensical](https://github.com/davidcalikes/sensical.ie)
-- [Time Hoppers](https://github.com/ciaraosull/project-5-time-hoppers)
-- [Green Planet](https://github.com/AnaMelisaGo/portfolio-5-green-planet)
-- [Sweet Tooth](https://github.com/AndreeeasN/pp5-swetooth-candy-co)
-- [Live | Events](https://github.com/StaffanHynge/E-commerce-store-v1)
-- [Work Workouts](https://github.com/Rakdoslover/Project-5-first)
+### PP5 - ECOMMERCE (Django) :
+- [Sensical](https://github.com/davidcalikes/sensical.ie) <!-- Distinction -->
+- [Time Hoppers](https://github.com/ciaraosull/project-5-time-hoppers) <!-- Merit -->
+- [Green Planet](https://github.com/AnaMelisaGo/portfolio-5-green-planet) <!-- Pass -->
+<!-- - [Sweet Tooth](https://github.com/AndreeeasN/pp5-swetooth-candy-co) -->
+<!-- - [Live | Events](https://github.com/StaffanHynge/E-commerce-store-v1) -->
+<!-- - [Work Workouts](https://github.com/Rakdoslover/Project-5-first) -->
 
