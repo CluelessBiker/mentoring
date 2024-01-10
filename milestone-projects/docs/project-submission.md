@@ -12,7 +12,7 @@ If there are issues with meeting your deadlines, you must inform Student Care in
 If you have any questions about this or anything else, please feel free to reach out to us.
 ```
 
-Contact: studentcare@codeinstitute.net
-LMS: [Dashboard](https://learn.codeinstitute.net/dashboard)
+- Contact: studentcare@codeinstitute.net
+- LMS: [Dashboard](https://learn.codeinstitute.net/dashboard)
 
-![Where to click]()
+![Where to click](learningSupports.png)
