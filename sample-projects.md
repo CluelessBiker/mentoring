@@ -8,6 +8,7 @@
 - [At Lujain](https://github.com/SalMod91/project-1-at-lujain)
 - [Space Fruit](https://github.com/ShaneDoyleDev/spacefruit)
 - [TG Portfolio](https://github.com/timgoalen/tg-composer-portfolio)
+- [North London Player Meetup](https://github.com/sjayawardena/p1-northlondon-multiplayer-meetup)
 
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
@@ -17,6 +18,8 @@
 - [quick mem](https://github.com/Pelikantapeten/p2-quickmem/tree/main)
 - [CyberCypher](https://github.com/ShaneDoyleDev/cybercypher/tree/main)
 - [Identify this chord](https://github.com/timgoalen/identify-this-chord)
+- [Capital Cities Quiz](https://github.com/sjayawardena/p2-capital-cities-quiz)
+<!-- - [Odd or Even](https://github.com/SalMod91/project-2-odd-even) -->
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
@@ -25,12 +28,15 @@
 - [Bigfoot Rage](https://github.com/andreas-ka/bigfoot-rage)
 - [Russian Roulette](https://github.com/DebbieBergstrom/Russian-Roulette/tree/main)
 - [Commandline Coffee](https://github.com/timgoalen/command-line-coffee)
+- [Recipe Selector](https://github.com/sjayawardena/p3-three-ingredient-recipe-selector)
+<!-- - [Text Land](https://github.com/SalMod91/project-3-text-land) -->
 
 ### PP4 - Django :
 - [Anthemology](https://github.com/AlexaH88/anthemology)
 - [Bundu Restaurant](https://github.com/Tony118g/bundu-restaurant)
 - [MS Dashboard](https://github.com/Pelikantapeten/p4-ms-dashboard)
 - [Magical Places - London](https://github.com/timgoalen/magical-places-london)
+- [Culture Club](https://github.com/DebbieBergstrom/Culture-Club)
 
 ### PP5 - ADVANCED FRONT END (React) :
 - [Snap Food](https://github.com/aleksandracodes/ci_pp5_snapfood) | [Backend API](https://github.com/aleksandracodes/snapfood-drf-api)
