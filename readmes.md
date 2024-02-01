@@ -27,6 +27,8 @@
 --- 
 
 ## PP3 :
+- Any & all installed packages/libraries should be documented in your readme, along with an explanation of what it is & why you used it.
+
 Testing for this project is limited as it is restricted to your user interactions that come in the form of inputs. Please document each & every input in the following manner:
 
 **TEST** | **ACTION** | **EXPECTATION** | **RESULT** 
