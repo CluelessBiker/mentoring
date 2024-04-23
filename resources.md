@@ -81,6 +81,7 @@
 - [JavaScript30](https://javascript30.com/) : 30 day vanilla JS challenge
 - [HakerRank](https://www.hackerrank.com/) : practise for tech tests
 - [CodeBar](https://codebar.io/) : tutorials, workshops, events
+- [Github Student Developer Pack](https://education.github.com/pack) : github offers access to some excellent learning tools, especially a free subscription to Frontend Masters.
 ---
 ### HELPFUL TOOLS : 
 - [Pseudoeditor](https://pseudoeditor.com/app/) : an online tool to aid you in writing pseudo code.
