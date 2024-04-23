@@ -9,6 +9,8 @@
 - [Space Fruit](https://github.com/ShaneDoyleDev/spacefruit)
 - [TG Portfolio](https://github.com/timgoalen/tg-composer-portfolio)
 - [North London Player Meetup](https://github.com/sjayawardena/p1-northlondon-multiplayer-meetup)
+- [Startup Academy](https://github.com/BOM-98/project_1)
+- [Indo Diving Collective](https://github.com/DebbieBergstrom/CI_PP1_DS)
 
 ### PP2 - JavaScript :
 - [Piannotes](https://github.com/AlexaH88/pianotes)
@@ -19,7 +21,10 @@
 - [CyberCypher](https://github.com/ShaneDoyleDev/cybercypher/tree/main)
 - [Identify this chord](https://github.com/timgoalen/identify-this-chord)
 - [Capital Cities Quiz](https://github.com/sjayawardena/p2-capital-cities-quiz)
+- [Quiz App](https://github.com/conroy9068/project-2-quiz-app)
+- [Mental Maths](https://github.com/BOM-98/mental-maths-project-2)
 <!-- - [Odd or Even](https://github.com/SalMod91/project-2-odd-even) -->
+- [Tarantino quiz](https://github.com/DebbieBergstrom/tarantino_quiz)
 
 ### PP3 - Python :
 - [Harry Potter Adventure Game](https://github.com/AlexaH88/harry-potter-adventure-game)
@@ -29,6 +34,8 @@
 - [Russian Roulette](https://github.com/DebbieBergstrom/Russian-Roulette/tree/main)
 - [Commandline Coffee](https://github.com/timgoalen/command-line-coffee)
 - [Recipe Selector](https://github.com/sjayawardena/p3-three-ingredient-recipe-selector)
+- [Tic Tac Toe](https://github.com/conroy9068/p3-Python)
+- [investIQ](https://github.com/BOM-98/investIQ-project-3)
 <!-- - [Text Land](https://github.com/SalMod91/project-3-text-land) -->
 
 ### PP4 - Django :
@@ -37,6 +44,8 @@
 - [MS Dashboard](https://github.com/Pelikantapeten/p4-ms-dashboard)
 - [Magical Places - London](https://github.com/timgoalen/magical-places-london)
 - [Culture Club](https://github.com/DebbieBergstrom/Culture-Club)
+- [QRSignInSignOut](https://github.com/conroy9068/p4-QRSignInSignOut)
+- [Tough GLove](https://github.com/BOM-98/tough-glove-project-4)
 
 ### PP5 - ADVANCED FRONT END (React) :
 - [Snap Food](https://github.com/aleksandracodes/ci_pp5_snapfood) | [Backend API](https://github.com/aleksandracodes/snapfood-drf-api)
@@ -53,4 +62,7 @@
 <!-- - [Sweet Tooth](https://github.com/AndreeeasN/pp5-swetooth-candy-co) -->
 <!-- - [Live | Events](https://github.com/StaffanHynge/E-commerce-store-v1) -->
 <!-- - [Work Workouts](https://github.com/Rakdoslover/Project-5-first) -->
+- [MarketFlex](https://github.com/conroy9068/p5-eCommerce)
+- [Atlas](https://github.com/BOM-98/atlas-rogue-project-5)
+<!-- - [realDreamsCo](https://github.com/DebbieBergstrom/realDreamsCo) -->
 
