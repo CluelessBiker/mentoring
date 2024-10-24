@@ -4,11 +4,19 @@
 - ERD that reflects model relations ([Draw SQL](https://drawsql.app/) or [Django database extension](https://medium.com/@yathomasi1/1-using-django-extensions-to-visualize-the-database-diagram-in-django-application-c5fa7e710e16))
 
 ### README: frontend
-- document all deployment steps
-- thorough testing of all elements (CRUD, page sizing, security, filling out forms)
-- wireframes
-- colour palettes
-- explanation of design choices, why you picked this theme, & how the concept is beneficial to others
+- [ ] Written with [markdown](https://www.markdownguide.org/cheat-sheet/)
+- [ ] Commit the README the same way you commit your project : "feat(readme): added testing steps"
+- [ ] Screenshot of finished site from [AM I RESPONSIVE](http://ami.responsivedesign.is/)
+- [ ] Explanation of the site's purpose - key project goals, target audience
+- [ ] Wireframes
+- [ ] Colour palettes
+- [ ] Explanation of design choices, why you picked this theme, & how the concept is beneficial to others
+- [ ] Screenshots of all site features (Nav bar | footer | tables | etc...) accompanied by an explanation of what each feature does
+- [ ] Thorough testing steps & screenshots of validator testing
+- [ ] thorough testing of all elements (CRUD, page sizing, security, filling out forms)
+- [ ] All deployment steps (cloning repo | git add/commit/push | deploy to github pages)
+- [ ] Credit code & media sources
+- [ ] Pass README through a spell checker!
 
 ### [AGILE](https://github.com/CluelessBiker/mentoring/blob/main/userstories.md):
 - create user stories for all features
